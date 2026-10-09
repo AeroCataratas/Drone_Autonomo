@@ -24,6 +24,11 @@ O objetivo deste projeto é servir como base de estudo e desenvolvimento para si
 - https://github.com/jslee02/awesome-robotics-libraries
 - https://github.com/mathworks-robotics/awesome-matlab-robotics
 
+### Programas para conferir a utilização
+- Motor de Otimização | OpEn: https://alphaville.github.io/optimization-engine/ 
+- Kornia - Visão Computacional: https://github.com/kornia/kornia
+- DORA (Dataflow-Oriented Robotic Architecture): https://github.com/dora-rs/dora/tree/main 
+
 ## Estrutura do projeto
 
 A estrutura deste repositório pode evoluir com os seguintes elementos:
